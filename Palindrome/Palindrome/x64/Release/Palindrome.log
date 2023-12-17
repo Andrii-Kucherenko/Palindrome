@@ -1,0 +1,7 @@
+﻿  Palindrome.cpp
+D:\Programs\VS\Projects\Palindrome\Palindrome\Palindrome.cpp(31,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 102 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Palindrome.vcxproj -> D:\Programs\VS\Projects\Palindrome\x64\Release\Palindrome.exe
